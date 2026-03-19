@@ -91,7 +91,7 @@ Visit [virusfor.ai](https://virusfor.ai) to explore the platform.
 
 ## About
 
-Built by [F² AI](https://fsquared.ai) in South Africa. Deployed globally on Google Cloud Platform.
+Built by [F² AI](https://fsquared.ai). Deployed globally on Google Cloud Platform.
 
 ## License
 
